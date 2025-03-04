@@ -48,10 +48,10 @@ This repository contains a Python script designed to automatically process CSV s
 
 1. **Run the Script:**
 
-   Execute the main script (e.g., `tax_statement_processor.py`):
+   Execute the main script (e.g., `finance-report-gen.py`):
 
    ```bash
-   python tax_statement_processor.py
+   python finance-report-gen.py
    ```
 
 2. **Select Your CSV File:**
